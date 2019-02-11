@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Shopping List</string>
+    <string name="SecondPageName">Second Page</string>
+    <string name="cake">Cake</string>
+    <string name="cereal">Cereal</string>
+    <string name="milk">Milk</string>
+    <string name="pear">Pear</string>
+    <string name="banana">Banana</string>
+    <string name="apple">Apple</string>
+    <string name="cheese">Cheese</string>
+    <string name="eggs">Eggs</string>
+    <string name="bread">Bread</string>
+    <string name="check_shop">Check Shop</string>
+    <string name="berries">Berries</string>
+    <string name="cakeList">Cake</string>
+    <string name="cerealList">Cereal</string>
+    <string name="milkList">Milk</string>
+    <string name="pearList">Pear</string>
+    <string name="bananaList">Banana</string>
+    <string name="appleList">Apple</string>
+    <string name="cheeseList">Cheese</string>
+    <string name="eggsList">Eggs</string>
+    <string name="breadList">Bread</string>
+    <string name="berriesList">Berries</string>
 </resources>
